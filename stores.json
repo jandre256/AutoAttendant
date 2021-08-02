@@ -1,0 +1,94 @@
+{
+  "Store": {
+    "PhoneNumber": {"+19999999999"},
+    "StoreNumber": {"001"},
+    "Title": {"Bloomfield"},
+    "Address": {
+      "Voice": {"You can visit us at 3675 West Maple Road, located on the southeast corner of Maple and Lahser"},
+      "Text": {"3675 Maple Rd. Bloomfield Twp, MI 48301"}
+    },
+    "InternalRegion": {"Oakland"},
+	"Country": {"US"},
+    "TimeZone": {"Americas/New_York"},
+    "IsOpen": {
+      "Value": {"True"},
+      "ClosedDescription": {""}
+    },
+    "HoursResponse": {
+      "MainStore": {
+		"Voice": {"Our store hours are 8 am to 10pm Monday thru Sunday"},
+		"Text": {"8am to 10pm Monday thru Sunday"}
+		},
+      "Cafe": {
+		"Voice": {""},
+		"Text": {""}
+		}
+    },
+    "ExtensionPrefix": {"2"},
+    "DepartmentExtensions": {
+      "Grocery": {"80"},
+      "Apothecary": {"73"},
+      "Produce": {"49"},
+      "MeatSeafood": {"77"},
+      "Wine": {"53"},
+      "PreparedFoods": {"70"},
+      "DeliCheese": {"71"},
+      "Bakery": {"72"},
+      "Catering": {"70"},
+      "GuestRelations": {"00"},
+      "StoreOperations": {"99"},
+      "SignMaker": {"45"},
+      "Bookkeeper": {},
+      "Receiver": {}
+    },
+    "Voicemail": {},
+    "ShopperPhones": {
+      "Shopper1": {"+19999999999"},
+      "Shopper2": {"+19999999999"},
+      "Shopper3": {"+19999999999"}
+    },
+	"Schedule": {
+		"holidays": {
+			"12/25/2019": {
+			  "description": "Christmas"
+			}
+		  },
+		"partialDays": {
+			"12/26/2019": {
+			  "begin": "10:00:00",
+			  "end": "14:00:00",
+			  "description": "Day after Christmas"
+			}
+		  },
+		"regularHours": {
+			"Monday": {
+			  "begin": "07:00:00",
+			  "end": "20:00:00"
+			},
+			"Tuesday": {
+			  "begin": "13:00:00",
+			  "end": "20:00:00"
+			},
+			"Wednesday": {
+			  "begin": "07:00:00",
+			  "end": "20:00:00"
+			},
+			"Thursday": {
+			  "begin": "07:00:00",
+			  "end": "20:00:00"
+			},
+			"Friday": {
+			  "begin": "07:00:00",
+			  "end": "15:00:00"
+			},
+			"Saturday": {
+			  "begin": null,
+			  "end": null
+			},
+			"Sunday": {
+			  "begin": null,
+			  "end": null
+			}
+		  }
+}
+  }
