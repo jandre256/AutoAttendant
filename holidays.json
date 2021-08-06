@@ -13,32 +13,32 @@
   },
   "regularHours": {
     "Monday": {
-      "begin": "07:00:00",
-      "end": "20:00:00"
+      "begin": "08:00:00",
+      "end": "22:00:00"
     },
     "Tuesday": {
-      "begin": "13:00:00",
-      "end": "20:00:00"
+      "begin": "08:00:00",
+      "end": "22:00:00"
     },
     "Wednesday": {
-      "begin": "07:00:00",
-      "end": "20:00:00"
+      "begin": "08:00:00",
+      "end": "22:00:00"
     },
     "Thursday": {
-      "begin": "07:00:00",
-      "end": "20:00:00"
+      "begin": "08:00:00",
+      "end": "22:00:00"
     },
     "Friday": {
-      "begin": "07:00:00",
-      "end": "15:00:00"
+      "begin": "08:00:00",
+      "end": "22:00:00"
     },
     "Saturday": {
-      "begin": null,
-      "end": null
+      "begin": "08:00:00",
+      "end": "22:00:00"
     },
     "Sunday": {
-      "begin": null,
-      "end": null
+      "begin": "08:00:00",
+      "end": "22:00:00"
     }
   }
 }
