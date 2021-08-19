@@ -1,1 +1,28 @@
-
+{
+  "ITStaff": [
+    {
+      "id": 1,
+      "name": "Josh Andrews",
+      "phone": "+12486316114",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Dan Demsky",
+      "phone": "+12487921920",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Troy Wisniewski",
+      "phone": "+12488406369",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Matt Meyers",
+      "phone": "",
+      "active": false
+    }
+    ]
+}
